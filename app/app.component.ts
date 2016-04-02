@@ -24,8 +24,9 @@ import {GameService} from './game.service';
                 <tbody>
                     <tr *ngFor="#player of players">
                         <th>{{ player }}</th>
-                        <td *ngFor="#game of games">
-                        </td>
+                        <td *ngFor="#game of games"></td>
+                        <td></td>
+                        <td></td>
                     </tr>
                 </tbody>
             </table>
@@ -45,8 +46,9 @@ import {GameService} from './game.service';
                 <tbody>
                     <tr *ngFor="#player of players">
                         <th>{{ player }}</th>
-                        <td *ngFor="#game of games">
-                        </td>
+                        <td *ngFor="#game of games"></td>
+                        <td></td>
+                        <td></td>
                     </tr>
                 </tbody>
             </table>
