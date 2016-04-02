@@ -1,5 +1,6 @@
 # BGT
 Board Game Tournament Application
+Developed in Angular 2 with Typescript
 
 ## Running The App
 
