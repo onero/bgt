@@ -15,5 +15,5 @@ npm install
 3. Now to start the app use npm start. The app will open a browsertab and auto-refresh when changes are applied to the app.
 
 ```shell
-npm install
+npm start
 ```
